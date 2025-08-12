@@ -1,30 +1,34 @@
 # AWS Guide 中文翻译项目
 
-本文档是 [容器化应用程序](https://docs.docker.com/get-started/) 的中文翻译版本，旨在提供规范、易读的中文技术指南。
+基于 [Docker 官方教程](https://docs.docker.com/get-started/) 的完整中文本地化版本，提供规范、易读的中文技术指南与 6 张中文界面截图。
 
 ---
 
-## 目录结构
-
-- `original.md`：原始英文文档  
-- `glossary.csv`：技术术语对照表（中英对应）  
-- `CHANGELOG.md`：翻译版本更新记录  
-- `translated/`：中文译文目录  
-  - `step1.md`：第一章译文（容器化应用程序）  
-  - `images/`：本地化截图（中文界面，对应官方占位图）
+## 🚀 在线阅读
+直接访问 [GitHub Pages 完整版](https://lilith887.github.io/aws-guide-zh)
 
 ---
 
-## 本地化截图预览
+## 📁 项目结构
 
-| 步骤 | 官方占位图 | 中文本地化截图 |
-|---|---|---|
-| 构建镜像 | — | ![01-build-success](translated/images/01-build-success.png) |
-| 启动容器 | — | ![02-run-container](translated/images/02-run-container.png) |
-| Docker Desktop 容器列表 | — | ![03-docker-desktop-containers](translated/images/03-docker-desktop-containers.png) |
-| 空待办列表 | — | ![04-app-empty-list](translated/images/04-app-empty-list.png) |
-| 添加待办 | — | ![05-app-with-items](translated/images/05-app-with-items.png) |
-| 镜像详情 | — | ![06-image-detail](translated/images/06-image-detail.png) |
+| 文件/目录 | 说明 |
+|---|---|
+| [`original.md`](./original.md) | 原始英文文档 |
+| [`glossary.csv`](./glossary.csv) | 技术术语对照表（中英对应） |
+| [`CHANGELOG.md`](./CHANGELOG.md) | 版本更新记录 |
+| [`translated/step1.md`](./translated/step1.md) | 第一章译文（容器化应用程序） |
+| [`translated/images/`](./translated/images/) | 6 张本地化截图 |
+
+---
+
+## 📸 本地化截图
+
+- [构建镜像](./translated/images/01-build-success.png)  
+- [启动容器](./translated/images/02-run-container.png)  
+- [Docker Desktop 容器列表](./translated/images/03-docker-desktop-containers.png)  
+- [空待办列表](./translated/images/04-app-empty-list.png)  
+- [添加待办](./translated/images/05-app-with-items.png)  
+- [镜像详情](./translated/images/06-image-detail.png)
 
 ---
 
