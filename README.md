@@ -1,6 +1,6 @@
 # AWS Guide 中文翻译项目
 
-基于 [Docker 官方教程](https://docs.docker.com/get-started/) 的完整中文本地化版本，提供规范、易读的中文技术指南与 6 张中文界面截图。
+> 本仓库为 [Docker 官方教程](https://docs.docker.com/get-started/)（[docker/getting-started](https://github.com/docker/getting-started)）的中文本地化翻译，遵循 Apache 2.0 许可证，并补充 6 张中文界面截图。
 
 ---
 
@@ -41,3 +41,4 @@
 ## 术语表使用
 
 所有翻译需以 `glossary.csv` 为基准；新增术语须同步至 `CHANGELOG.md`。
+
