@@ -1,0 +1,16 @@
+英文术语,中文术语
+Docker CLI,Docker 命令行
+Docker Compose,Docker Compose
+Docker Desktop,Docker 桌面
+Docker Engine,Docker 引擎
+Docker Hub,Docker Hub
+base image,基础镜像
+build,构建
+container,容器
+context,上下文
+image,镜像
+layer,层
+multi-architecture image,多架构镜像
+persistent storage,持久化存储
+registry,仓库
+volume,卷
